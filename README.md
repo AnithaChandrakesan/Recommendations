@@ -1,2 +1,2 @@
 # Recommendations
-Recommender Systems using python
+Content based Recommender Systems using python
